@@ -11,7 +11,3 @@ class dog(object):
     def __init__(self, arg):
         super(dog, self).__init__()
         self.arg = arg
-
-
-
-print('Hello')
