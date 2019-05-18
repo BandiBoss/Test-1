@@ -4,3 +4,14 @@ class ClassName(object):
     def __init__(self, arg):
         super(, self).__init__()
         self.arg = arg
+
+class dog(object):
+    """docstring for dog."""
+
+    def __init__(self, arg):
+        super(dog, self).__init__()
+        self.arg = arg
+
+
+
+print('Hello')
